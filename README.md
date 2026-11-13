@@ -25,6 +25,10 @@ Web application in **C# / .NET** with Entity Framework and SQL Server, developed
 I'm the team's **Scrum Master** and built the *Create Team* feature (models, validation, database migrations).  
 → [Repository](https://github.com/ISII2627Erasmus/Barca)
 
+### 🏋️ GymTracker – workout tracking app (team project, FIDIT 2026)
+Android application in **Kotlin** for tracking exercises and workouts, with user login/logout, navigation and database integration.  
+→ [Repository](https://github.com/mateoGrzinic/GymTracker)
+
 ## 🏆 Highlights
 - National award for the **"Mali Zmaj" chatbot** project for a non-profit organisation (Infobip & STEMI, 2022)
 - English: C1 (Oxford Placement Test)
